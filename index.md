@@ -8,15 +8,22 @@ When I'm not doing stats, I enjoy running, bicycling, & hiking!
 ### Research Projects
 
 [Somatic variant richness for primary site classification in human cancer](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Word Cloud.jpeg"/>
+
+Worked on metafeature stuff
 
 ---
 [Analysis of Time Course RNA-Seq Data in E. coli and T. brucei](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Impulse.png"/>
+<img src="images/Clust_exs.png"/>
+
+Impulse models
 
 ---
 [Analysis Antarctic Petrel Foraging Trips](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Prototype paths.png"/>
+
+Petrel forage
 
 ---
 
