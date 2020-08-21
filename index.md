@@ -8,12 +8,14 @@ When I'm not doing stats, I enjoy running, bicycling, & hiking!
 ### Research Projects
 
 [Somatic variant richness for primary site classification in human cancer](/sample_page)
+<br>
 <img src="images/Word Cloud.jpeg" width="500" height="500">
 
 Worked on metafeature stuff
 
 ---
 [Analysis of Time Course RNA-Seq Data in E. coli and T. brucei](/pdf/sample_presentation.pdf)
+<br>
 <img src="images/Impulse.png" width="460" height="345">
 <img src="images/Clust_exs.png" width="460" height="345">
 
@@ -21,6 +23,7 @@ Impulse models
 
 ---
 [Analysis Antarctic Petrel Foraging Trips](http://example.com/)
+<br>
 <img src="images/Prototype paths.png" width="500" height="450">
 
 Petrel forage
