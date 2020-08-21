@@ -1,23 +1,26 @@
-## Portfolio
+## About me
 
+My name is Ethan Ashby, and I am a senior mathematics major concentrating in statistics at Pomona College. I’m interested in the application of statistical methods to problems in biology, particularly in the fields of statistical genomics, machine learning, and oncology research.
+
+When I’m not doing stats, I enjoy running, bicycling, and hiking!
 ---
 
-### Category Name 1 
+### Research Projects
 
-[Project 1 Title](/sample_page)
+[Somatic variant richness for primary site classification in human cancer](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Analysis of Time Course RNA-Seq Data in E. coli and T. brucei](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Analysis Antarctic Petrel Foraging Trips](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
