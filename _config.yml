@@ -2,6 +2,7 @@ title: Ethan Ashby # your name (or website title) here
 logo: "/images/IMG_1950.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a mathematics major & biology minor at Pomona college, interested in the nexus of statistical methods and biological problems.
+  <br>
   <a href="https://www.linkedin.com/in/ethan-ashby-106882197/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
