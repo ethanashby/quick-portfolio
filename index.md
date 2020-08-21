@@ -19,7 +19,6 @@ I am continuing to work on this project for my senior thesis. I intend to assess
 [Analysis of Time Course RNA-Seq Data in E. coli and T. brucei](/pdf/sample_presentation.pdf)
 <br>
 <img src="images/Impulse.png" width="460" height="345">
-<img src="images/Clust_exs.png" width="460" height="345">
 
 Beginning in the summer of 2019 at the Harvey Mudd Data Science REU, I began to explore the Impulse models (Chechik & Koller, Comput. Biol. 16:279–290, 2009), a scaled product of two sigmoidal functions, and its utility in modeling time course RNA-seq data. The model is parametrized by biologically-meaningful parameters, including an onset time parameter, which permits researchers to approximate when genes 'turn on' in response to an environmental stimulus. <br>
 On the methodological side, I've shown that the impulse and sigmoid models are descriptive of certain expression profiles, but break down when data is sparse. I updated the model fitting procedure of ImpulseDE2 (Fischer, Theis, & Yosef, Nucleic Acids Res. 46, 1–10, 2018), a well-regarded differential expression algorithm for time course RNA-Seq data that relies on these models, to include random parameter initializations. <br>
@@ -28,7 +27,7 @@ On the biological side, I've applied this method to time course datasets in E. c
 ---
 [Analysis Antarctic Petrel Foraging Trips](http://example.com/)
 <br>
-<img src="images/Prototype paths.png" width="500" height="450">
+<img src="images/Petrel.png" width="600" height="600">
 
 In the spring of 2020, I visualized and analyzed GPS data for 150 Antarctic Petrel forage trips over the austral summers between 2012-2014. I identified that petrel foraging trip length was highly variable from year to year and used PAM clustering to identify prototype petrel foraging paths. When I integrated the GPS data with remote sensing data for several climatic variables, I identified a phenomenon where petrels tended to forage in regions of low to moderate sea ice cover, corresponding to the sea ice edge. This finding was supported by the scientific literature (Delord, K. et al., R. Soc. Open Sci. 7, 2020). However, there was no correlation between petrel forage location and large icebergs. This project represented a data-driven approach to understand the ecology of an important Antarctic sentinel species. 
 
