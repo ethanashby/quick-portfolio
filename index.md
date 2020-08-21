@@ -9,7 +9,7 @@ When I'm not doing stats, I enjoy running, bicycling, & hiking!
 
 [Somatic variant richness for primary site classification in human cancer](/sample_page)
 <br>
-<img src="images/Word Cloud.jpeg" width="500" height="500">
+<img src="images/Word Cloud.jpeg" width="400" height="400">
 
 During the summer of 2020, I worked in the Department of Epidemiology and Biostatistics at Memorial Sloan Kettering Cancer Center under the mentorship of Dr. Ronglai Shen and Dr. Saptarshi Chakraborty to extract clinically-relevant signals from rare mutations in the cancer genome. In previous research, my mentors used nonparametric, Bayesian methods develop in the fields of computational linguistics and ecology to mine tissue-specific signals from rare mutations (in the word cloud above, analogous to the diverse collection of green words) in major cancer genes (Chakraborty et al., Nature Communications 10:1-9, 2019). However, the majority of genes were omitted from analysis due to sparse mutation data.  <br>
 We developed a framework to resolvve mutation data sparseness and extend this analysis to all genes in the human genome, by using unsupervised clustering to build gene groups defined by biological variables known to correlate with somatic mutation rate. This project was a step towards harnessing the preponderance of previously neglected mutation data for important clinical purposes. <br>
@@ -27,7 +27,7 @@ On the biological side, I've applied this method to time course datasets in E. c
 ---
 [Analysis Antarctic Petrel Foraging Trips](http://example.com/)
 <br>
-<img src="images/Petrel.png" width="600" height="600">
+<img src="images/Petrel.png" width="600" height="500">
 
 In the spring of 2020, I visualized and analyzed GPS data for 150 Antarctic Petrel forage trips over the austral summers between 2012-2014. I identified that petrel foraging trip length was highly variable from year to year and used PAM clustering to identify prototype petrel foraging paths. When I integrated the GPS data with remote sensing data for several climatic variables, I identified a phenomenon where petrels tended to forage in regions of low to moderate sea ice cover, corresponding to the sea ice edge. This finding was supported by the scientific literature (Delord, K. et al., R. Soc. Open Sci. 7, 2020). However, there was no correlation between petrel forage location and large icebergs. This project represented a data-driven approach to understand the ecology of an important Antarctic sentinel species. 
 
