@@ -21,7 +21,7 @@ During the summer of 2020, I worked in the Department of Epidemiology and Biosta
 Beginning in the summer of 2019 at the Harvey Mudd Data Science REU, I explored the Impulse models (Chechik & Koller, Comput. Biol. 16:279–290, 2009), a scaled product of two sigmoidal functions, and its utility in modeling time course RNA-seq data. I've conducted methodological inquiry into the model's properties and improving the model fitting procedure. I've also conducted practical (biological) research, applying this model to time course RNA-Sequencing datasets in E. coli and T. brucei (a human parasite that causes sleeping sickness).
 
 ---
-[Analysis Antarctic Petrel Foraging Trips](http://example.com/)
+[Analysis of Antarctic Petrel Foraging Trips](http://example.com/)
 <br>
 <img src="images/Petrel.png" width="600" height="500">
 
