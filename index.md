@@ -7,14 +7,14 @@ When I'm not doing stats, I enjoy running, bicycling, & hiking!
 
 ### Research Projects
 
-[Using somatic variant richness for primary site classification in human cancer](/sample_page)
+[Using somatic variant richness for primary site classification in human cancer](/MSK Presentation slides.pdf)
 <br>
 <img src="images/Word Cloud.jpeg" width="400" height="400">
 
 During the summer of 2020, I worked in the Department of Epidemiology and Biostatistics at Memorial Sloan Kettering Cancer Center under the mentorship of Dr. Ronglai Shen and Dr. Saptarshi Chakraborty to extract tissue specific signals from rare mutations in the cancer genome. We developed a framework to extend my mentors previous analysis in major cancer genes (Chakraborty et al., Nature Communications 10:1-9, 2019) to all genes in the human genome using machine learning and knowledge of what features drive mutational heterogeneity in cancer. I am continuing to work on this project for my senior thesis with the goal of developing an information-theoretic clustering approach to identify gene groups with rare variant patterns of high clinical relevance.
 
 ---
-[Analysis of Time Course RNA-Seq Data in E. coli and T. brucei](/pdf/sample_presentation.pdf)
+[Analysis of Time Course RNA-Seq Data in E. coli and T. brucei](/sample_page)
 <br>
 <img src="images/Impulse.png" width="460" height="345">
 
