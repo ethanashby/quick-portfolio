@@ -18,7 +18,13 @@ Identifying a cancer's tissue of origin from its genome sequence is an important
 <br>
 <img src="images/Impulse.png" width="460" height="345">
 
-Beginning in the summer of 2019 at the Harvey Mudd Data Science REU, I explored the Impulse models (Chechik & Koller, Comput. Biol. 16:279–290, 2009), a scaled product of two sigmoidal functions, and its utility in modeling time course RNA-seq data. I've conducted methodological inquiry into the model's properties and improving the model fitting procedure. I've also conducted practical (biological) research, applying this model to time course RNA-Sequencing datasets in E. coli and T. brucei (a human parasite that causes sleeping sickness).
+Beginning in the summer of 2019 at the Harvey Mudd Data Science REU, under the mentorship of Professors Johanna Hardin, Daniel Stoebel, and Danae Schulz, I explored the Impulse models (Chechik & Koller, Comput. Biol. 16:279–290, 2009), a scaled product of two sigmoidal functions, and its utility in modeling time course RNA-seq data. The model presents a number of advantages outlined below:
+
+1. The impulse model is a biologically plausible model. The Impulse model can accurately capture transcriptional responses to an acute environmental stimulus, while its nested sigmoidal model can capture state-transition/developmental responses.
+2. The impulse model treats time as continous, meaning that it improves power when compared to categorical time treatements in differential expression analysis
+3. The model is parametrized by biologically meaningful parameters. Particularly the onset time $t_1$ parameter, can be used as a proxy for when genes "turn on" during a transcriptional response.
+
+Over the past year, I've conducted methodological inquiry into the model's properties and improving the model fitting procedure. I've also applied this model to time course RNA-Sequencing datasets in *E. coli* and *T. brucei* (a human parasite that causes sleeping sickness).
 
 ---
 [Analysis of Antarctic Petrel Foraging Trips](https://ethanashby.github.io/Petrel-Foraging/)
