@@ -33,6 +33,13 @@ Beginning in the summer of 2019 at the Harvey Mudd Data Science REU, under the m
 In the spring of 2020, I visualized and analyzed GPS data for 150 Antarctic Petrel forage trips over the austral summers between 2012-2014. I identified that petrel foraging trip length was highly variable from year to year and used PAM clustering to identify prototype petrel foraging paths. When I integrated the GPS data with remote sensing data for several climatic variables, I identified a phenomenon where petrels tended to forage in regions of low to moderate sea ice cover, corresponding to the sea ice edge. This finding was supported by the scientific literature (Delord, K. et al., R. Soc. Open Sci. 7, 2020). This project represented a data-driven approach to understand the ecology of an important Antarctic sentinel species. 
 
 ---
+[Simulating DIII National Cross Country Meets](/MSKResearch.md)
+
+---
+[Datafest 2019: Travel and Player Fatigue on the Canadian National Rugby Team](/MSKResearch.md)
+
+
+---
 
 ### Links
 
