@@ -7,7 +7,7 @@ When I'm not doing stats, I enjoy running, bicycling, & hiking!
 
 ### Research Projects
 
-[Using somatic variant richness for primary site classification in human cancer](.MSKResearch.md)
+[Using somatic variant richness for primary site classification in human cancer](/MSKResearch.md)
 <br>
 <img src="images/Word Cloud.jpeg" width="400" height="400">
 
