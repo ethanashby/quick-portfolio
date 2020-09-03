@@ -24,7 +24,7 @@ Under the mentorship of two Memorial Sloan Kettering Cancer Center Biostatistici
 Beginning in the summer of 2019 at the Harvey Mudd Data Science REU, under the mentorship of Professors Johanna Hardin, Daniel Stoebel, and Danae Schulz, I explored the Impulse model, a scaled product of two sigmoidal functions, and its utility in modeling time course RNA-seq data. The model presents a number of advantages, among them, the ability to measure when genes turn on. My work has concerned the model's properties, fitting procedure, and its applications to time course RNA-Sequencing datasets in *E. coli* and *T. brucei* (a human parasite that causes sleeping sickness).
 
 ---
-[Analysis of Antarctic Petrel Foraging Trips](https://ethanashby.github.io/Petrel-Foraging/)
+[Analysis of Antarctic Petrel Foraging Trips](/Petrel.md)
 <br>
 <p align="center">
   <img src="images/Petrel.png" width="600" height="500">
