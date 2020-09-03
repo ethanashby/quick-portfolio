@@ -9,7 +9,9 @@ When I'm not doing stats, I enjoy running, bicycling, & hiking!
 
 [Using somatic variant richness for primary site classification in human cancer](/MSKResearch.md)
 <br>
-<img src="images/Word Cloud.jpeg" width="400" height="400">
+<p align="center">
+  <img src="images/Word Cloud.jpeg" width="400" height="400">
+</p>
 
 
 ---
