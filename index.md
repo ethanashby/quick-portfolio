@@ -62,7 +62,7 @@ In the spring of 2020, I wrote a mock grant proposal to use isotopic (C13) ratio
 
 ---
 
-### Links to stuff I like
+### Some inspiring articles
 
 - [NCAA Division III National Cross Country Championships Recap](https://tsl.news/cross-country-ncaa-championship/)
 - [Monkies Writing Shakespeare??? Try RNNs](https://towardsdatascience.com/can-ai-write-like-shakespeare-de710befbfee)
