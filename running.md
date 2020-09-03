@@ -7,7 +7,7 @@ I am a Division III Cross Country runner, so much of my time outside of class is
 In the running world, athletes spend a lot of time predicting race outcomes and analyzing past races to understand what individuals/teams are favorites, and which teams over/underperform relative to expectations. Along with my classmates and teammates Daniel Rosen and <a href="https://github.com/n8stringham">Nathan Stringham</a>, we took a data-driven approach to this problem, which could provide useful information for evaluating coaches and providing information to recruits.
 
 <p align="center">
-  <img src="/PPNats.jpg, width="800", height="600">
+  <img src="/PPNats.jpg width="800" height="600">
 </p>
 
 Check out our <a href="https://n8stringham.shinyapps.io/CrossCountry_Simulator/">shiny app simulator</a>.
