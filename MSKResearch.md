@@ -11,7 +11,7 @@ I extended my mentor's analysis to somatic variant mutation data from <a href="h
 
 I conducted this research as part of Memorial Sloan Kettering's Quantitative Summer Undergraduate Research Experience (QSURE) Program. Through this program, I attended academic lectures, professional development workshops, and research ethics seminars. At the end of my internship, I gave a scientific presentation to the other QSURE fellows, their project advisors, and other researchers at Memorial Slaon Kettering Cancer Center. Linked below is the slide deck for my presentation and the research abstract that I authored if you want to learn more.
 
-[QSURE Slide Deck: Metafeature Clustering(/MSK Presentation slides.pdf)
+[QSURE Slide Deck: Metafeature Clustering](/MSK Presentation slides.pdf)
 
 [QSURE Project Abstract](/QSURE Abstract Edited.pdf)
 <br>
