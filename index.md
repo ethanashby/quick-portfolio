@@ -15,7 +15,7 @@ When I'm not doing stats, I enjoy running, bicycling, & hiking!
 Under the mentorship of two Memorial Sloan Kettering Cancer Center Biostatisticians, I developed a framework that combined Bayesian nonparametric methods developed in the fields of computational linguistics and ecology, machine learning methods, and knowledge of what factors drive mutational heterogeneity in cancer, to aggregate rare mutation data for important clinical purposes.
 
 ---
-[Analysis of Time Course RNA-Seq Data in E. coli and T. brucei](/sample_page)
+[Analysis of Time Course RNA-Seq Data in E. coli and T. brucei](/Impulse.md)
 <br>
 <p align="center">
   <img src="images/Impulse.png" width="460" height="345">
