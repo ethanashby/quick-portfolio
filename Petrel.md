@@ -13,7 +13,7 @@ Antarctic Petrels (Thalassoica antarctica) are an important Antarctic sentinel s
 I also clustered the Petrel foraging trips using Partitioning Around Medoids (PAM) Clustering to identify prototypical petrel foraging trips during different years. To determine possible causes of this variability, I visualized the pretrel foraging trips in light of remote sensing data, corresponding to various environmental variables like sea surface temperature, bathymetric depth, net primary production, locations of large icebergs, and sea ice cover. After integrating these data, I identified a phenomenon where petrels tended to forage in regions of low to moderate sea ice cover (<50% cover), a threshold that corresponds to the sea ice edge.
 
 <p align="center">
-  <img src="Prototypes_plot.png" width="850" height="325" alt="Prototypes PAM Plots">
+  <img src="Prototypes_plot.png" width="850" height="300" alt="Prototypes PAM Plots">
 </p>
 
 
