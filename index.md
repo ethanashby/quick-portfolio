@@ -45,7 +45,7 @@ I am a NCAA Division III Cross Country runner, and much of my time out of class 
 [Datafest 2019: Travel and Player Fatigue on the Canadian National Rugby Team](/MSKResearch.md)
 
 ---
-[Grant Proposal: Analysis of Sandhill Crane Istopic Ratios](/Avian Project Final.pdf)
+[Grant Proposal: Analysis of Sandhill Crane Istopic Ratios](/Avian Proposal Final.pdf)
 
 <p align="center">
   <img src="Sandhill.jpg" width="460" height="345">
