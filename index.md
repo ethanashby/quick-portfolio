@@ -36,7 +36,7 @@ In the spring of 2020, I visualized and analyzed GPS data for 150 Antarctic Petr
 [Simulating DIII National Cross Country Meets](/running.md)
 
 <p align="center">
-  <img src="images/PPNats.jpg" width="600" height="450">
+  <img src="PPNats.jpg" width="600" height="450">
 </p>
 
 I am a NCAA Division III Cross Country runner, and much of my time out of class is spent training to compete in long distance running races. These races are notoriously difficult to predict, since performance is stochastic and a variety of factors can influence a race. Along with two classmates and teammates, we worked on a project to simulate NCAA DIII National Cross Country meets from publically-available race data, to identify which teams overperformed and underperformed at the 2018 and 2019 national meets. I was fortunate enough to compete in the 2019 NCAA meet, where I helped Pomona-Pitzer capture its first national championship in school history.
@@ -46,6 +46,10 @@ I am a NCAA Division III Cross Country runner, and much of my time out of class 
 
 ---
 [Grant Proposal: Analysis of Sandhill Crane Istopic Ratios](/Avian Project Final.pdf)
+
+<p align="center">
+  <img src="Sandhill.jpg" width="460" height="345">
+</p>
 
 In the spring of 2020, I wrote a mock grant proposal to use isotopic (C13) ratios in museum specimens of Sandhill Cranes from the Eastern Flyway to measure temporal trends in corn consumption by this once endangered avian species. This represented a well-researched and thoughtfully-concieved approach to leveraging museum specimens for interesting historical ecology research. Additionally, as climate change affects the agriculture of the American Heartland, this project could be useful for projecting the impacts on this important species. In the link above, you can access a pdf of my proposal.
 
