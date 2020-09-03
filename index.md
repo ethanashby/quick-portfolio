@@ -45,7 +45,7 @@ I am a NCAA Division III Cross Country runner, and much of my time out of class 
 Datafest 2019: Travel and Player Fatigue on the Canadian National Rugby Team
 
 <p align="center">
-  <img src="/images/Rugby.jpeg" width="460" height="345">
+  <img src="" width="460" height="345">
 </p>
 
 In collaboration with several classmates, I attended UCLA Datafest in the Spring of 2019, where we won the Best Use of External Data Award for scraping Twitter Data to determine when the Canadian National Rugby team was traveling for competition. Then we created a metric for fatigue, incorporating a number of variables, and saw that this metric tended to spike immediately following travel trips. We contended that this work may encourage the team to invest in more recovery to maximize the performance of their athletes.
