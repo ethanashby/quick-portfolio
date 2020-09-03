@@ -36,7 +36,7 @@ In the spring of 2020, I visualized and analyzed GPS data for 150 Antarctic Petr
 [Simulating DIII National Cross Country Meets](/running.md)
 
 <p align="center">
-  <img src="PPNats.jpg" width="600" height="450">
+  <img src="PPNats.jpg" width="400" height="300">
 </p>
 
 I am a NCAA Division III Cross Country runner, and much of my time out of class is spent training to compete in long distance running races. These races are notoriously difficult to predict, since performance is stochastic and a variety of factors can influence a race. Along with two classmates and teammates, we worked on a project to simulate NCAA DIII National Cross Country meets from publically-available race data, to identify which teams overperformed and underperformed at the 2018 and 2019 national meets. I was fortunate enough to compete in the 2019 NCAA meet, where I helped Pomona-Pitzer capture its first national championship in school history.
