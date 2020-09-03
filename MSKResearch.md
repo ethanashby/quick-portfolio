@@ -5,7 +5,7 @@
     <figcaption><i>This word cloud was generated from The Cancer Genome Atlas home webpage. Our analysis considers a kind of "mutational wordcloud", and uses methods developed in computational linguistics to calculate probabilities of encountering rare mutations (or green words) with the goal of attributing primary sites to cancer. </i></figcaption>
 </p>
 
-**Check out my slide Deck here:[QSURE Slide Deck: Metafeature Clustering](/MSK Presentation slides.pdf)**
+**Check out my slide deck here: [QSURE Slide Deck: Metafeature Clustering](/MSK Presentation slides.pdf)**
 
 **Check out my project abstract: [QSURE Project Abstract](/QSURE Abstract Edited.pdf)**
 
