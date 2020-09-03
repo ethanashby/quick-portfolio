@@ -2,7 +2,7 @@
 
 My name is Ethan Ashby, and I am a senior mathematics major concentrating in statistics at Pomona College. I’m interested in the application of statistical methods to problems in biology, particularly in the fields of statistical genomics, machine learning, and oncology research. I'm also an avid birdwatcher, and I'm interested in applying statistical methods to research in birds. I am a dual sport athlete (Cross Country and Track and Field), so when I'm not doing stats, I spend a lot of time running. I also enjoy bicycling, hiking, and many kinds of music!
 
-If you would to get in contact with me, you can do so through <a href = "mailto: ecadeashby@gmail.com">email</a>
+If you would to get in contact with me, you can do so through <a href = "mailto: ecadeashby@gmail.com">email</a>!
 
 ---
 
