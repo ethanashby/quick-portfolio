@@ -5,7 +5,7 @@
 Antarctic Petrels (Thalassoica antarctica) are an important Antarctic sentinel species. They often gather in large flocks on icebergs during long periods at sea, meaning that the behavior and ecology of these birds can be a useful lens to study the health of the Antarctic. However, our understanding of the ecology and life history of these birds are incomplete.
 
 <p align="center">
-  <img src="/Petrel.jpg" width="550" height="400" alt="Antarctic Petrel (Thalassoica antarctica)">
+  <img src="/Petrel.jpg" width="550" height="350" alt="Antarctic Petrel (Thalassoica antarctica)">
 </p>
 
 156 petrels were tagged with GPS monitors at Svarthamaren, Dronning Maud Land, the largest known colony of Antarctic Petrels in the world. These data were originally collected to test for overlap between petrel forage routes and commercial krill fisheries (Descampes, S. et al. PLOS ONE, 11 (8), 2016). These GPS data were made publically available on <a href=https://www.movebank.org/cms/movebank-main>Movebank</a>. I analyzed Antarctic Petrel foraging data over the austral summers of 2012-2014 for the Final project of my Avian Ecoloogy class in the spring of 2020. I plotted Petrel foraging paths, faceted by year and month. I observed high variability in foraging behavior and determined that the length of petrel forage trips were significantly different across different years.
