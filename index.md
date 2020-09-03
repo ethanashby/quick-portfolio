@@ -17,7 +17,9 @@ Under the mentorship of two Memorial Sloan Kettering Cancer Center Biostatistici
 ---
 [Analysis of Time Course RNA-Seq Data in E. coli and T. brucei](/sample_page)
 <br>
-<img src="images/Impulse.png" width="460" height="345">
+<p align="center">
+  <img src="images/Impulse.png" width="460" height="345">
+</p>
 
 Beginning in the summer of 2019 at the Harvey Mudd Data Science REU, under the mentorship of Professors Johanna Hardin, Daniel Stoebel, and Danae Schulz, I explored the Impulse models (Chechik & Koller, Comput. Biol. 16:279–290, 2009), a scaled product of two sigmoidal functions, and its utility in modeling time course RNA-seq data. The model presents a number of advantages outlined below:
 
@@ -30,7 +32,9 @@ Over the past year, I've conducted methodological inquiry into the model's prope
 ---
 [Analysis of Antarctic Petrel Foraging Trips](https://ethanashby.github.io/Petrel-Foraging/)
 <br>
-<img src="images/Petrel.png" width="600" height="500">
+<p align="center">
+  <img src="images/Petrel.png" width="600" height="500">
+</p>
 
 In the spring of 2020, I visualized and analyzed GPS data for 150 Antarctic Petrel forage trips over the austral summers between 2012-2014. I identified that petrel foraging trip length was highly variable from year to year and used PAM clustering to identify prototype petrel foraging paths. When I integrated the GPS data with remote sensing data for several climatic variables, I identified a phenomenon where petrels tended to forage in regions of low to moderate sea ice cover, corresponding to the sea ice edge. This finding was supported by the scientific literature (Delord, K. et al., R. Soc. Open Sci. 7, 2020). This project represented a data-driven approach to understand the ecology of an important Antarctic sentinel species. 
 
