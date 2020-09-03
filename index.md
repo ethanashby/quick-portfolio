@@ -2,6 +2,8 @@
 
 My name is Ethan Ashby, and I am a senior mathematics major concentrating in statistics at Pomona College. I’m interested in the application of statistical methods to problems in biology, particularly in the fields of statistical genomics, machine learning, and oncology research. I'm also an avid birdwatcher, and I'm interested in applying statistical methods to biological data in birds. I am a dual sport athlete (Cross Country and Track and Field), so when I'm not doing stats, I enjoy running. I also enjoy bicycling, hiking, and many kinds of music!
 
+If you would to get in contact with me, you can do so through email: ecadeashby@gmail.com
+
 ---
 
 ### Research Projects
@@ -11,7 +13,7 @@ My name is Ethan Ashby, and I am a senior mathematics major concentrating in sta
 <p align="center">
   <img src="images/Word Cloud.jpeg" width="400" height="400">
 </p>
-Under the mentorship of two Memorial Sloan Kettering Cancer Center Biostatisticians, I developed a framework that combined Bayesian nonparametric methods developed in the fields of computational linguistics and ecology, machine learning methods, and knowledge of what factors drive mutational heterogeneity in cancer, to aggregate rare mutation data for important clinical purposes.
+Under the mentorship of two Memorial Sloan Kettering Cancer Center Biostatisticians, I developed a framework that combined Bayesian nonparametric methods developed in the fields of computational linguistics and ecology, machine learning methods, and knowledge of what factors drive mutational heterogeneity in cancer, to aggregate rare mutation data for important clinical purposes. I am continuing work for my senior thesis, where I hope to develop an information theoretic clustering approach to generate gene groups with high clinical value.
 
 ---
 [Analysis of Time Course RNA-Seq Data in E. coli and T. brucei](/Impulse.md)
