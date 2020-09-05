@@ -2,7 +2,7 @@
 
 **Check out my slide presentation [here](/Petrel Presentation.pdf).**
 
-Antarctic Petrels (Thalassoica antarctica) are an important Antarctic sentinel species. They often gather in large flocks on icebergs during long periods at sea, meaning that the behavior and ecology of these birds can be a useful lens to study the health of the Antarctic. However, our understanding of the ecology and life history of these birds are incomplete.
+Antarctic Petrels (*Thalassoica antarctica*) are an important Antarctic sentinel species. They often gather in large flocks on icebergs during long periods at sea, meaning that the behavior and ecology of these birds can be a useful lens to study the health of the Antarctic. However, our understanding of the ecology and life history of these birds are incomplete.
 
 <p align="center">
   <img src="/Petrel.jpg" width="550" height="350" alt="Antarctic Petrel (Thalassoica antarctica)">
