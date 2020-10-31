@@ -37,7 +37,7 @@ In the spring of 2020, I visualized and analyzed GPS data for 150 Antarctic Petr
 [Simulating DIII National Cross Country Meets](/running.md)
 
 <p align="center">
-  <img src="PPNats.jpg" width="550" height="350">
+  <img src="PPNats.jpg" width="550" height="320">
 </p>
 
 I am a NCAA Division III Cross Country runner, and much of my time out of class is spent training to compete in long distance running races. These races are notoriously difficult to predict, since performance is stochastic and a variety of factors can influence a race. Along with two classmates and teammates, we worked on a project to simulate NCAA DIII National Cross Country meets from publically-available race data, to identify which teams overperformed and underperformed at the 2018 and 2019 national meets. I was fortunate enough to compete in the 2019 NCAA meet, where I helped Pomona-Pitzer capture its first national championship in school history.
@@ -46,7 +46,7 @@ I am a NCAA Division III Cross Country runner, and much of my time out of class 
 Datafest 2019: Travel and Player Fatigue on the Canadian National Rugby Team
 
 <p align="center">
-  <img src="/images/Rugby7.jpeg" width="460" height="345">
+  <img src="/images/Rugby7.jpeg" width="460" height="320">
 </p>
 
 In collaboration with several classmates, I attended UCLA Datafest in the Spring of 2019, where we won the Best Use of External Data Award for scraping Twitter Data to determine when the Canadian National Rugby team was traveling for competition. Then we created a metric for fatigue, incorporating a number of variables, and saw that this metric tended to spike immediately following travel trips. We contended that this work may encourage the team to invest in more recovery to maximize the performance of their athletes.
